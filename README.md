@@ -1,0 +1,2 @@
+# script_alumnes_i_grups_ad_zentyal_samba
+script_alumnes_i_grups_ad_zentyal_samba
